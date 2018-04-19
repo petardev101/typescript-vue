@@ -1,0 +1,22 @@
+{
+  "name": "typescript-vue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "css-loader": "^0.28.11",
+    "ts-loader": "^4.2.0",
+    "typescript": "^2.8.1",
+    "vue": "^2.5.16",
+    "vue-loader": "^14.2.2",
+    "vue-template-compiler": "^2.5.16",
+    "webpack": "^4.6.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.0.14"
+  }
+}
